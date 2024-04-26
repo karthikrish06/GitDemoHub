@@ -1,2 +1,3 @@
 const arr = ["karthi","Refresh"]
 console.log(arr)
+Let obj = {karthi,jhon}
