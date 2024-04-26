@@ -1,0 +1,2 @@
+const arr = ["karthi","Refresh"]
+console.log(arr)
